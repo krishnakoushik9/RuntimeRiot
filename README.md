@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/code/code-original.svg" width="90" />
-</p>
-
 <h1 align="center">RuntimeRiot</h1>
 
 <p align="center">
