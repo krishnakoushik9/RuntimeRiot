@@ -79,7 +79,11 @@ It leverages **Judge0** for secure sandboxed execution and **AWS EC2** for elast
 |----|----|
 | **Main Maintainer** | [@krishnakoushik9](https://github.com/krishnakoushik9) |
 | **System API Manager** | Available for Grab |
-| **Data Manager** | Available for Grab |
+| **Data Manager** | [@YKavyasrichowdary](https://github.com/YKavyasrichowdary) |
+| **Lead Design Head** | [@krishnakoushik9](https://github.com/krishnakoushik9) |
+| **React Dev** | [@YKavyasrichowdary](https://github.com/YKavyasrichowdary) |
+| **Feature Implementor** | [@Abhinandan-SRCS](https://github.com/Abhinandan-srcs) |
+| **Database Manager** | Available for Grab |
 
 ---
 
